@@ -2,9 +2,19 @@
 layout: post
 ---
 
-Okay, Serial Peripheral Interface (SPI) is one of the most frequently used, at least in my experience, communication protocol to connect devices or integrated circuits (IC) together. It is very easy and quick to setup once you get familiar with the interface.
+TL;DR
+
+Okay, Serial Peripheral Interface (SPI) is one of the most frequently used, at least in my experience, communication protocol to connect devices or integrated circuits (IC) together. It is very easy and quick to setup once you get familiar with the interface, and I guarantee that this will be the first thing comes to your mind among other communication protocols when it comes to connecting peripherals.
+
+table of contents
+-
+-
+-
+-
+
 
 # What is it?
+Before I explain how to use it, let me briefly explain what it does.
 Serial Peripheral Interface (SPI) is a type of serial communication protocol used to connect devices to computers and microcontrollers, allowing them to exchange data. It is a popular bus system that is widely used in embedded electronics, allowing for the transfer of data at high speeds while consuming relatively low power.
 
 # when do you use it?
